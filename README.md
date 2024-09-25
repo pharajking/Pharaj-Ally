@@ -1,3 +1,4 @@
+![logo](https://github.com/pharajking/Pharaj-Ally/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Pharaj Ally</h1>
 <h3 align="center">Highly passionate about Data science, Full Stack Web development, Software Testing & Mobile development.</h3>
 
