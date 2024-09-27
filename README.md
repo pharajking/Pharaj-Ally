@@ -1,4 +1,4 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Hi 👋, I'm Pharaj Ally
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
